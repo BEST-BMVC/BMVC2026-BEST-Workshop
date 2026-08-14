@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zc142857&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BEST-BMVC/BMVC2026-BEST-Workshop.git&quot;,
+    &quot;accountId&quot;: &quot;83abb0a0-88a9-4207-8b84-e1fe093d2d2d&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0457527084268334" />
+      <entry key="MS500" value="1.571215455851001" />
+      <entry key="S2" value="2.608852097720133" />
+      <entry key="S5" value="4.7417558322857065" />
+      <entry key="S10" value="6.857083594563146" />
+      <entry key="S30" value="9.455155791332327" />
+      <entry key="S60" value="17.379408962994443" />
+      <entry key="M2" value="70.46966240051347" />
+      <entry key="M5" value="279.1358561714879" />
+      <entry key="M10" value="515.1622627146761" />
+      <entry key="M15" value="684.1136731036337" />
+      <entry key="M30" value="1082.7256889272328" />
+      <entry key="H1" value="1596.7538574740527" />
+      <entry key="H2" value="2065.5423225304085" />
+      <entry key="H4" value="2391.8646058683016" />
+      <entry key="D1" value="2728.3512276330434" />
+      <entry key="W1" value="2793.0077277855967" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.72749279441384E-305" />
+      <entry key="S5" value="2.143587898089664E-122" />
+      <entry key="S10" value="1.4640996885764373E-61" />
+      <entry key="S30" value="5.270561469074732E-21" />
+      <entry key="S60" value="7.259863269425146E-11" />
+      <entry key="M2" value="8.52048312563601E-6" />
+      <entry key="M5" value="0.009379629595113953" />
+      <entry key="M10" value="0.09684848783080811" />
+      <entry key="M15" value="0.21089286951805994" />
+      <entry key="M30" value="0.45923073668697645" />
+      <entry key="H1" value="0.6776656525802228" />
+      <entry key="H2" value="0.8232045022837376" />
+      <entry key="H4" value="0.9073061789074858" />
+      <entry key="D1" value="0.9839181639532912" />
+      <entry key="W1" value="0.9976866011694416" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9840243472184452" />
+      <entry key="MS500" value="1.5556137951740117" />
+      <entry key="S2" value="2.603250436552965" />
+      <entry key="S5" value="4.738073901790839" />
+      <entry key="S10" value="6.854515771453725" />
+      <entry key="S30" value="9.453991155132181" />
+      <entry key="S60" value="17.37823326278348" />
+      <entry key="M2" value="70.4670824324884" />
+      <entry key="M5" value="279.14078616104104" />
+      <entry key="M10" value="515.2536807091543" />
+      <entry key="M15" value="684.3188065758388" />
+      <entry key="M30" value="1083.1795145918304" />
+      <entry key="H1" value="1597.4273869985925" />
+      <entry key="H2" value="2066.362854654646" />
+      <entry key="H4" value="2392.7703726782343" />
+      <entry key="D1" value="2729.334854951446" />
+      <entry key="W1" value="2794.0053719042703" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Hs64VW2HzBu9NHu7MHPWB8aSx4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "workshop-website",
+    "git.auto.fetch.suggestion.counter": "3",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Research Associate Zhi/2026 BMVC workshop/GitHub code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="GitHub code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.8665.369" />
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="" />
+      <created>1786644237902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786644237902</updated>
+      <workItem from="1786644238939" duration="2202000" />
+      <workItem from="1786719715967" duration="735000" />
+      <workItem from="1786723800015" duration="7146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="workshop-website" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

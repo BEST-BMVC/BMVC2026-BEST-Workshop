@@ -6,10 +6,10 @@ const searchIndex = [
     keywords: ['home', 'overview', 'workshop', 'biomechanics', 'movement', 'sports', 'health', 'multimodal']
   },
   {
-    title: 'Submission',
-    url: 'submission.html',
+    title: 'Call for Papers',
+    url: 'call-for-papers.html',
     summary: 'Paper submission process, formatting guidance, templates, deadlines, registration, and camera-ready instructions.',
-    keywords: ['submission', 'paper', 'format', 'template', 'deadline', 'camera-ready', 'registration']
+    keywords: ['call for papers', 'submission', 'paper', 'format', 'template', 'deadline', 'camera-ready', 'registration']
   },
   {
     title: 'Program',
@@ -64,7 +64,7 @@ function runSearch(query) {
   if (!resultsBox) return;
 
   if (!matches.length) {
-    resultsBox.innerHTML = '<div class="result-item"><strong>No results match your search.</strong><small>Try another keyword such as movement, schedule, submission, or organizers.</small></div>';
+    resultsBox.innerHTML = '<div class="result-item"><strong>No results match your search.</strong><small>Try another keyword such as movement, schedule, call for papers, or organizers.</small></div>';
     return;
   }
 

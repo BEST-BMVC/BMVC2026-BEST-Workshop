@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Further updates on the call for papers page">
+    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Added more information about organizers, changed photo of Liang.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images-best-bmvc/L-Fan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images-best-bmvc/L-Fan.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/organizers.html" beforeDir="false" afterPath="$PROJECT_DIR$/organizers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/partials/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="26" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -48,23 +45,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0090219387385653" />
-      <entry key="MS500" value="2.581601929635646" />
-      <entry key="S2" value="8.775526815640289" />
-      <entry key="S5" value="20.65234392990436" />
-      <entry key="S10" value="36.4591156955435" />
-      <entry key="S30" value="64.73732261165111" />
-      <entry key="S60" value="77.81839068769852" />
-      <entry key="M2" value="96.7869685842838" />
-      <entry key="M5" value="211.5131273861987" />
-      <entry key="M10" value="452.8771786243311" />
-      <entry key="M15" value="689.4323178354415" />
-      <entry key="M30" value="1250.1350939788679" />
-      <entry key="H1" value="1961.3807321992194" />
-      <entry key="H2" value="2875.6861530915453" />
-      <entry key="H4" value="3837.7427631791165" />
-      <entry key="D1" value="5250.894284075837" />
-      <entry key="W1" value="5582.492504497474" />
+      <entry key="MS100" value="1.0130695631713353" />
+      <entry key="MS500" value="2.354954016078646" />
+      <entry key="S2" value="8.846382401615793" />
+      <entry key="S5" value="21.439709605824152" />
+      <entry key="S10" value="41.04941441986651" />
+      <entry key="S30" value="104.88419924476278" />
+      <entry key="S60" value="151.92823291835154" />
+      <entry key="M2" value="189.8278299190653" />
+      <entry key="M5" value="221.5760643283692" />
+      <entry key="M10" value="235.36922121627543" />
+      <entry key="M15" value="249.76597591455157" />
+      <entry key="M30" value="399.1284708922584" />
+      <entry key="H1" value="937.4406847060752" />
+      <entry key="H2" value="1954.5648479875683" />
+      <entry key="H4" value="3205.021886605666" />
+      <entry key="D1" value="5276.418069917108" />
+      <entry key="W1" value="5796.916897250914" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,37 +69,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.3225995361387104E-145" />
-      <entry key="S60" value="4.819335572606249E-73" />
-      <entry key="M2" value="6.942143453289939E-37" />
-      <entry key="M5" value="3.440308856799665E-15" />
-      <entry key="M10" value="5.865414611773037E-8" />
-      <entry key="M15" value="1.5096136398470099E-5" />
-      <entry key="M30" value="0.003885374679290478" />
-      <entry key="H1" value="0.06233277371728554" />
-      <entry key="H2" value="0.2496653234177373" />
-      <entry key="H4" value="0.49966521133424235" />
-      <entry key="D1" value="0.8907992694604441" />
-      <entry key="W1" value="0.9836162459446047" />
+      <entry key="S30" value="9.87001522973394E-200" />
+      <entry key="S60" value="3.1416580383189913E-100" />
+      <entry key="M2" value="1.7724722955009955E-50" />
+      <entry key="M5" value="1.2572793490557324E-20" />
+      <entry key="M10" value="1.121284686890838E-10" />
+      <entry key="M15" value="2.3252907327070011E-7" />
+      <entry key="M30" value="4.822126846845946E-4" />
+      <entry key="H1" value="0.021959341626846943" />
+      <entry key="H2" value="0.14818684701027338" />
+      <entry key="H4" value="0.3849504474737569" />
+      <entry key="D1" value="0.852905283604539" />
+      <entry key="W1" value="0.9775268303766548" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9679273272090761" />
-      <entry key="MS500" value="2.5594989490441726" />
-      <entry key="S2" value="8.756318314984933" />
-      <entry key="S5" value="20.63341166536935" />
-      <entry key="S10" value="36.44203679244182" />
-      <entry key="S30" value="64.72723336183572" />
-      <entry key="S60" value="77.81234889133516" />
-      <entry key="M2" value="96.78315044720476" />
-      <entry key="M5" value="211.50962750808773" />
-      <entry key="M10" value="452.8733733466649" />
-      <entry key="M15" value="689.4283581601447" />
-      <entry key="M30" value="1250.135040527955" />
-      <entry key="H1" value="1961.4396129313218" />
-      <entry key="H2" value="2875.933010447033" />
-      <entry key="H4" value="3838.240431081212" />
-      <entry key="D1" value="5251.784603543162" />
-      <entry key="W1" value="5583.476047264884" />
+      <entry key="MS100" value="0.9326878417565034" />
+      <entry key="MS500" value="2.325832774835745" />
+      <entry key="S2" value="8.822286329836686" />
+      <entry key="S5" value="21.416525438651355" />
+      <entry key="S10" value="41.02696140585994" />
+      <entry key="S30" value="104.86424926360135" />
+      <entry key="S60" value="151.9110691365516" />
+      <entry key="M2" value="189.81340582060676" />
+      <entry key="M5" value="221.56702161379636" />
+      <entry key="M10" value="235.36383191814588" />
+      <entry key="M15" value="249.76210242997402" />
+      <entry key="M30" value="399.12643620071685" />
+      <entry key="H1" value="937.4603815102839" />
+      <entry key="H2" value="1954.7108366335353" />
+      <entry key="H4" value="3205.4050303957865" />
+      <entry key="D1" value="5277.270470862356" />
+      <entry key="W1" value="5797.8943446293915" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -182,7 +179,8 @@
       <workItem from="1786644238939" duration="2202000" />
       <workItem from="1786719715967" duration="735000" />
       <workItem from="1786723800015" duration="8220000" />
-      <workItem from="1786812435198" duration="7295000" />
+      <workItem from="1786812435198" duration="7382000" />
+      <workItem from="1786959167240" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="Updated website for BMVC 2026-BEST workshop">
       <option name="closed" value="true" />
@@ -200,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786739783989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added more information about organizers, changed photo of Liang.">
+      <option name="closed" value="true" />
+      <created>1786823494370</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1786823494370</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +238,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated website for BMVC 2026-BEST workshop" />
     <MESSAGE value="Further updates on the call for papers page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Further updates on the call for papers page" />
+    <MESSAGE value="Added more information about organizers, changed photo of Liang." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more information about organizers, changed photo of Liang." />
   </component>
 </project>

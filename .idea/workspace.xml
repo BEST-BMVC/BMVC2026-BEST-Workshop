@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Update BTIIC logo with PNG format.">
+    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Added list of program committee;&#10;&#10;Changed spelling of organiser;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organizers.html" beforeDir="false" afterPath="$PROJECT_DIR$/organizers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/partials/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="26" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -46,23 +43,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000303575" />
-      <entry key="S2" value="1.0047079675835997" />
-      <entry key="S5" value="1.275345926025902" />
-      <entry key="S10" value="2.17041758978171" />
-      <entry key="S30" value="4.733124651077619" />
-      <entry key="S60" value="7.740966261825087" />
-      <entry key="M2" value="22.45016135743441" />
-      <entry key="M5" value="135.73246068677432" />
-      <entry key="M10" value="321.516847785901" />
-      <entry key="M15" value="445.5942081170359" />
-      <entry key="M30" value="710.0440170304838" />
-      <entry key="H1" value="1268.3629086196538" />
-      <entry key="H2" value="2302.6523729071746" />
-      <entry key="H4" value="3610.861262428265" />
-      <entry key="D1" value="5844.31994023608" />
-      <entry key="W1" value="6415.495525329762" />
+      <entry key="MS100" value="1.00000590349195" />
+      <entry key="MS500" value="1.091062216628114" />
+      <entry key="S2" value="1.8970728034802353" />
+      <entry key="S5" value="3.054015566685587" />
+      <entry key="S10" value="4.132555589101607" />
+      <entry key="S30" value="7.131962085134529" />
+      <entry key="S60" value="9.801272627027688" />
+      <entry key="M2" value="15.011730873058635" />
+      <entry key="M5" value="60.01772336284666" />
+      <entry key="M10" value="196.74511286436748" />
+      <entry key="M15" value="321.09471943055956" />
+      <entry key="M30" value="608.840583418711" />
+      <entry key="H1" value="1178.0470811000373" />
+      <entry key="H2" value="2222.8828638758914" />
+      <entry key="H4" value="3557.9128880521316" />
+      <entry key="D1" value="5865.5742821756" />
+      <entry key="W1" value="6460.137503026449" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -70,37 +67,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="3.726146018369998E-213" />
-      <entry key="S60" value="6.104216590497232E-107" />
-      <entry key="M2" value="7.81294860503787E-54" />
-      <entry key="M5" value="5.716444442414331E-22" />
-      <entry key="M10" value="2.3909087064158475E-11" />
-      <entry key="M15" value="8.29931016786499E-8" />
-      <entry key="M30" value="2.8808523335752486E-4" />
-      <entry key="H1" value="0.01697307377458512" />
-      <entry key="H2" value="0.13028074982354287" />
-      <entry key="H4" value="0.3609442475279461" />
-      <entry key="D1" value="0.8438009709604615" />
-      <entry key="W1" value="0.9760293110295603" />
+      <entry key="S30" value="4.441620444459489E-219" />
+      <entry key="S60" value="6.664548330126869E-110" />
+      <entry key="M2" value="2.5815786507727946E-55" />
+      <entry key="M5" value="1.4613496650005766E-22" />
+      <entry key="M10" value="1.2088629636980246E-11" />
+      <entry key="M15" value="5.267259496149502E-8" />
+      <entry key="M30" value="2.2950510879172416E-4" />
+      <entry key="H1" value="0.01514942602185679" />
+      <entry key="H2" value="0.12308300460200142" />
+      <entry key="H4" value="0.3508318751225086" />
+      <entry key="D1" value="0.8398141235769889" />
+      <entry key="W1" value="0.9753691718355332" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.334088999546106E-12" />
-      <entry key="MS500" value="0.005758864148025132" />
-      <entry key="S2" value="0.2792618184710772" />
-      <entry key="S5" value="0.8496741143972876" />
-      <entry key="S10" value="1.8904203094372327" />
-      <entry key="S30" value="4.56920681960932" />
-      <entry key="S60" value="7.628495166078766" />
-      <entry key="M2" value="22.38063776789372" />
-      <entry key="M5" value="135.6977754859355" />
-      <entry key="M10" value="321.49589196142625" />
-      <entry key="M15" value="445.57867327257384" />
-      <entry key="M30" value="710.0351025377674" />
-      <entry key="H1" value="1268.3740910545202" />
-      <entry key="H2" value="2302.77864649003" />
-      <entry key="H4" value="3611.2194612113917" />
-      <entry key="D1" value="5845.1630649683975" />
-      <entry key="W1" value="6416.471449933531" />
+      <entry key="MS100" value="8.195647174611268E-6" />
+      <entry key="MS500" value="0.15630242765723076" />
+      <entry key="S2" value="1.3307777988730143" />
+      <entry key="S5" value="2.713210411125306" />
+      <entry key="S10" value="3.9229320760804156" />
+      <entry key="S30" value="7.037399439394891" />
+      <entry key="S60" value="9.738215165749446" />
+      <entry key="M2" value="14.96084132520206" />
+      <entry key="M5" value="59.97578114350899" />
+      <entry key="M10" value="196.71338899907096" />
+      <entry key="M15" value="321.06944648236004" />
+      <entry key="M30" value="608.8250118832411" />
+      <entry key="H1" value="1178.0526152944149" />
+      <entry key="H2" value="2222.9998818513877" />
+      <entry key="H4" value="3558.2598974090424" />
+      <entry key="D1" value="5866.413228901337" />
+      <entry key="W1" value="6461.112739746889" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -183,7 +180,8 @@
       <workItem from="1786812435198" duration="7382000" />
       <workItem from="1786959167240" duration="1639000" />
       <workItem from="1786962100103" duration="889000" />
-      <workItem from="1786972176770" duration="1504000" />
+      <workItem from="1786972176770" duration="1691000" />
+      <workItem from="1786980475300" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="Updated website for BMVC 2026-BEST workshop">
       <option name="closed" value="true" />
@@ -225,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786972653187</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added list of program committee;&#10;&#10;Changed spelling of organiser;">
+      <option name="closed" value="true" />
+      <created>1786973737468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786973737468</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +266,7 @@
     <MESSAGE value="Added more information about organizers, changed photo of Liang." />
     <MESSAGE value="Added email addresses for contact information." />
     <MESSAGE value="Update BTIIC logo with PNG format." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update BTIIC logo with PNG format." />
+    <MESSAGE value="Added list of program committee;&#10;&#10;Changed spelling of organiser;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added list of program committee;&#10;&#10;Changed spelling of organiser;" />
   </component>
 </project>

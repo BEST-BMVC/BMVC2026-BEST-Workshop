@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Added more information about organizers, changed photo of Liang.">
+    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Added email addresses for contact information.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organizers.html" beforeDir="false" afterPath="$PROJECT_DIR$/organizers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +42,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0130695631713353" />
-      <entry key="MS500" value="2.354954016078646" />
-      <entry key="S2" value="8.846382401615793" />
-      <entry key="S5" value="21.439709605824152" />
-      <entry key="S10" value="41.04941441986651" />
-      <entry key="S30" value="104.88419924476278" />
-      <entry key="S60" value="151.92823291835154" />
-      <entry key="M2" value="189.8278299190653" />
-      <entry key="M5" value="221.5760643283692" />
-      <entry key="M10" value="235.36922121627543" />
-      <entry key="M15" value="249.76597591455157" />
-      <entry key="M30" value="399.1284708922584" />
-      <entry key="H1" value="937.4406847060752" />
-      <entry key="H2" value="1954.5648479875683" />
-      <entry key="H4" value="3205.021886605666" />
-      <entry key="D1" value="5276.418069917108" />
-      <entry key="W1" value="5796.916897250914" />
+      <entry key="MS100" value="1.0001596483885378" />
+      <entry key="MS500" value="1.3783334677934311" />
+      <entry key="S2" value="3.879900969694652" />
+      <entry key="S5" value="7.113206751271774" />
+      <entry key="S10" value="9.85653415673917" />
+      <entry key="S30" value="12.988921214552674" />
+      <entry key="S60" value="18.431685776860817" />
+      <entry key="M2" value="47.256465796574496" />
+      <entry key="M5" value="124.58661222335043" />
+      <entry key="M10" value="180.58493200439653" />
+      <entry key="M15" value="212.58174208352048" />
+      <entry key="M30" value="370.0237991262389" />
+      <entry key="H1" value="899.1592622589735" />
+      <entry key="H2" value="1913.217642982886" />
+      <entry key="H4" value="3173.4892841326564" />
+      <entry key="D1" value="5278.572936586632" />
+      <entry key="W1" value="5809.898765677046" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -69,37 +66,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="9.87001522973394E-200" />
-      <entry key="S60" value="3.1416580383189913E-100" />
-      <entry key="M2" value="1.7724722955009955E-50" />
-      <entry key="M5" value="1.2572793490557324E-20" />
-      <entry key="M10" value="1.121284686890838E-10" />
-      <entry key="M15" value="2.3252907327070011E-7" />
-      <entry key="M30" value="4.822126846845946E-4" />
-      <entry key="H1" value="0.021959341626846943" />
-      <entry key="H2" value="0.14818684701027338" />
-      <entry key="H4" value="0.3849504474737569" />
-      <entry key="D1" value="0.852905283604539" />
-      <entry key="W1" value="0.9775268303766548" />
+      <entry key="S30" value="8.828305751494658E-203" />
+      <entry key="S60" value="9.395906423275519E-102" />
+      <entry key="M2" value="3.0652742818994607E-51" />
+      <entry key="M5" value="6.23143022640876E-21" />
+      <entry key="M10" value="7.893940857651212E-11" />
+      <entry key="M15" value="1.8401896294016615E-7" />
+      <entry key="M30" value="4.2897431501219915E-4" />
+      <entry key="H1" value="0.020711695126478167" />
+      <entry key="H2" value="0.14391558333438886" />
+      <entry key="H4" value="0.379362074190821" />
+      <entry key="D1" value="0.8508290673499552" />
+      <entry key="W1" value="0.9771865350694589" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9326878417565034" />
-      <entry key="MS500" value="2.325832774835745" />
-      <entry key="S2" value="8.822286329836686" />
-      <entry key="S5" value="21.416525438651355" />
-      <entry key="S10" value="41.02696140585994" />
-      <entry key="S30" value="104.86424926360135" />
-      <entry key="S60" value="151.9110691365516" />
-      <entry key="M2" value="189.81340582060676" />
-      <entry key="M5" value="221.56702161379636" />
-      <entry key="M10" value="235.36383191814588" />
-      <entry key="M15" value="249.76210242997402" />
-      <entry key="M30" value="399.12643620071685" />
-      <entry key="H1" value="937.4603815102839" />
-      <entry key="H2" value="1954.7108366335353" />
-      <entry key="H4" value="3205.4050303957865" />
-      <entry key="D1" value="5277.270470862356" />
-      <entry key="W1" value="5797.8943446293915" />
+      <entry key="MS100" value="0.9594152838817336" />
+      <entry key="MS500" value="1.3661347057672955" />
+      <entry key="S2" value="3.8703298132034085" />
+      <entry key="S5" value="7.105830512180464" />
+      <entry key="S10" value="9.851268338181384" />
+      <entry key="S30" value="12.986550728627064" />
+      <entry key="S60" value="18.429897356288503" />
+      <entry key="M2" value="47.25330680622604" />
+      <entry key="M5" value="124.58185780362606" />
+      <entry key="M10" value="180.58100043533855" />
+      <entry key="M15" value="212.57858478617382" />
+      <entry key="M30" value="370.0219429944708" />
+      <entry key="H1" value="899.1778168933085" />
+      <entry key="H2" value="1913.3594121807625" />
+      <entry key="H4" value="3173.8668600027845" />
+      <entry key="D1" value="5279.423261580679" />
+      <entry key="W1" value="5810.87587265035" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -180,7 +177,9 @@
       <workItem from="1786719715967" duration="735000" />
       <workItem from="1786723800015" duration="8220000" />
       <workItem from="1786812435198" duration="7382000" />
-      <workItem from="1786959167240" duration="694000" />
+      <workItem from="1786959167240" duration="1639000" />
+      <workItem from="1786962100103" duration="889000" />
+      <workItem from="1786972176770" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="Updated website for BMVC 2026-BEST workshop">
       <option name="closed" value="true" />
@@ -206,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786823494370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added email addresses for contact information.">
+      <option name="closed" value="true" />
+      <created>1786960164647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786960164647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +246,7 @@
     <MESSAGE value="Updated website for BMVC 2026-BEST workshop" />
     <MESSAGE value="Further updates on the call for papers page" />
     <MESSAGE value="Added more information about organizers, changed photo of Liang." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more information about organizers, changed photo of Liang." />
+    <MESSAGE value="Added email addresses for contact information." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added email addresses for contact information." />
   </component>
 </project>

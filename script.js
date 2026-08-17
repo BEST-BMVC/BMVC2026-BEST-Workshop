@@ -9,13 +9,13 @@ const searchIndex = [
     title: 'Call for Papers',
     url: 'call-for-papers.html',
     summary: 'Paper submission process, formatting guidance, templates, deadlines, registration, and camera-ready instructions.',
-    keywords: ['call for papers', 'submission', 'paper', 'format', 'template', 'deadline', 'camera-ready', 'registration']
+    keywords: ['call for papers', 'submission', 'paper', 'format', 'template', 'deadline', 'camera-ready', 'registration','venue']
   },
   {
     title: 'Program',
     url: 'program.html',
     summary: 'Detailed workshop schedule, venue directions, and the running order of talks, discussions, and breaks.',
-    keywords: ['program', 'schedule', 'venue', 'directions', 'talks', 'agenda', 'events']
+    keywords: ['program', 'schedule', 'venue', 'directions', 'talks', 'agenda', 'events','place']
   },
   {
     title: 'Invited Speakers',
@@ -24,10 +24,10 @@ const searchIndex = [
     keywords: ['speakers', 'invited', 'keynote', 'talk', 'bio', 'profile', 'abstract']
   },
   {
-    title: 'Organizers',
+    title: 'Organisers',
     url: 'organizers.html',
     summary: 'Main organizers, technical program committee members, and supporting sponsors for the workshop.',
-    keywords: ['organizers', 'committee', 'sponsors', 'supporters', 'team','btiic', 'bmvc', 'workshop']
+    keywords: ['organizers', 'committee', 'sponsors', 'supporters', 'team','btiic', 'bmvc', 'workshop','organisers']
   }
 ];
 

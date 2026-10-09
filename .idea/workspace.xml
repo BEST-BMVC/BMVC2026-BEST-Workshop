@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Updated Mamun's title.">
+    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Updated organizers list.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organizers.html" beforeDir="false" afterPath="$PROJECT_DIR$/organizers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call-for-papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/call-for-papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="26" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -43,23 +44,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0052955178763456" />
-      <entry key="MS500" value="1.687721174676528" />
-      <entry key="S2" value="4.270701239778068" />
-      <entry key="S5" value="6.901258035549303" />
-      <entry key="S10" value="10.082230443164455" />
-      <entry key="S30" value="18.166599465805973" />
-      <entry key="S60" value="26.163412569219382" />
-      <entry key="M2" value="37.78169698164511" />
-      <entry key="M5" value="78.23282732702496" />
-      <entry key="M10" value="198.46892256391317" />
-      <entry key="M15" value="318.32853911704655" />
-      <entry key="M30" value="608.2132647186507" />
-      <entry key="H1" value="1178.8279493207936" />
-      <entry key="H2" value="2226.3740483381516" />
-      <entry key="H4" value="3570.8165812286247" />
-      <entry key="D1" value="5906.083056175468" />
-      <entry key="W1" value="6509.4860895361" />
+      <entry key="MS100" value="1.0060279796366585" />
+      <entry key="MS500" value="2.5880403322761563" />
+      <entry key="S2" value="12.321428631718875" />
+      <entry key="S5" value="24.78276228649272" />
+      <entry key="S10" value="39.19063590708468" />
+      <entry key="S30" value="92.32442694981788" />
+      <entry key="S60" value="143.41336369797727" />
+      <entry key="M2" value="197.5063476096255" />
+      <entry key="M5" value="315.0525313890963" />
+      <entry key="M10" value="454.8377751035131" />
+      <entry key="M15" value="571.2829849201619" />
+      <entry key="M30" value="905.4351591875864" />
+      <entry key="H1" value="1537.623196778515" />
+      <entry key="H2" value="2665.9669058381705" />
+      <entry key="H4" value="4187.445522676999" />
+      <entry key="D1" value="7026.460665235592" />
+      <entry key="W1" value="7793.727957746498" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -67,37 +68,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.606069640577256E-221" />
-      <entry key="S60" value="5.104967816330839E-111" />
-      <entry key="M2" value="7.144905749084506E-56" />
-      <entry key="M5" value="8.741754417983789E-23" />
-      <entry key="M10" value="9.349734979123717E-12" />
-      <entry key="M15" value="4.438125039909854E-8" />
-      <entry key="M30" value="2.1066857952505328E-4" />
-      <entry key="H1" value="0.01451442659993985" />
-      <entry key="H2" value="0.1204758340910715" />
-      <entry key="H4" value="0.34709628936513537" />
-      <entry key="D1" value="0.8383171067293279" />
-      <entry key="W1" value="0.9751206030908786" />
+      <entry key="S30" value="3.964328667371311E-259" />
+      <entry key="S60" value="6.296291501647236E-130" />
+      <entry key="M2" value="2.509241220298688E-65" />
+      <entry key="M5" value="1.444830714214235E-26" />
+      <entry key="M10" value="1.2020111123506698E-13" />
+      <entry key="M15" value="2.4355982598827842E-9" />
+      <entry key="M30" value="4.935178071643544E-5" />
+      <entry key="H1" value="0.0070250822569157285" />
+      <entry key="H2" value="0.08381576377338275" />
+      <entry key="H4" value="0.2895095227680077" />
+      <entry key="D1" value="0.8133493842878825" />
+      <entry key="W1" value="0.9709177681133107" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8633853912602111" />
-      <entry key="MS500" value="1.6473013634001228" />
-      <entry key="S2" value="4.244772422790033" />
-      <entry key="S5" value="6.879940389716379" />
-      <entry key="S10" value="10.066285341221871" />
-      <entry key="S30" value="18.152758662430024" />
-      <entry key="S60" value="26.141986437595268" />
-      <entry key="M2" value="37.751903402150745" />
-      <entry key="M5" value="78.19808612275033" />
-      <entry key="M10" value="198.4387821903593" />
-      <entry key="M15" value="318.3033148405368" />
-      <entry key="M30" value="608.1969039606741" />
-      <entry key="H1" value="1178.8321911926425" />
-      <entry key="H2" value="2226.4880506109016" />
-      <entry key="H4" value="3571.1596254746187" />
-      <entry key="D1" value="5906.920462151612" />
-      <entry key="W1" value="6510.461071247202" />
+      <entry key="MS100" value="0.9584492697142398" />
+      <entry key="MS500" value="2.564768377974496" />
+      <entry key="S2" value="12.292612267017107" />
+      <entry key="S5" value="24.759424586447984" />
+      <entry key="S10" value="39.17221184409252" />
+      <entry key="S30" value="92.30991716862525" />
+      <entry key="S60" value="143.4020804656588" />
+      <entry key="M2" value="197.4984933801418" />
+      <entry key="M5" value="315.0465869304975" />
+      <entry key="M10" value="454.8319225605974" />
+      <entry key="M15" value="571.2765543130506" />
+      <entry key="M30" value="905.4273650604368" />
+      <entry key="H1" value="1537.622588996414" />
+      <entry key="H2" value="2666.044642322666" />
+      <entry key="H4" value="4187.730790170779" />
+      <entry key="D1" value="7027.272975214433" />
+      <entry key="W1" value="7794.698714713467" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -189,7 +190,8 @@
       <workItem from="1787134435108" duration="61000" />
       <workItem from="1787231284807" duration="273000" />
       <workItem from="1787232167516" duration="13000" />
-      <workItem from="1787338794940" duration="170000" />
+      <workItem from="1787338794940" duration="217000" />
+      <workItem from="1791562166728" duration="4312000" />
     </task>
     <task id="LOCAL-00001" summary="Updated website for BMVC 2026-BEST workshop">
       <option name="closed" value="true" />
@@ -271,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787231441489</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated organizers list.">
+      <option name="closed" value="true" />
+      <created>1787339001632</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1787339001632</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +298,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="workshop-website" />
+                        <option value="origin/workshop-website" />
                       </list>
                     </value>
                   </entry>
@@ -311,6 +321,7 @@
     <MESSAGE value="Highlighted changes to workshop; online included." />
     <MESSAGE value="Added staff to technical program committee." />
     <MESSAGE value="Updated Mamun's title." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Mamun's title." />
+    <MESSAGE value="Updated organizers list." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated organizers list." />
   </component>
 </project>

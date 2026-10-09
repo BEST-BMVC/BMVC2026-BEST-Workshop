@@ -235,10 +235,43 @@ main { max-width: 1180px; margin: 0 auto; padding: 0 1.2rem 3rem; }
 .card h3 { margin-top: 0; }
 .timeline { display: grid; gap: 0.8rem; }
 .timeline-item { padding: 0.9rem 1rem; border-left: 2px solid var(--accent); background: rgba(255,255,255,0.03); border-radius: 0 16px 16px 0; }
-.table-card { padding: 1rem; overflow-x: auto; }
+.table-card { padding: 1.3rem; margin-top: 1rem; overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; }
 th, td { padding: 0.8rem; text-align: left; border-bottom: 1px solid var(--border); }
 th { color: var(--accent); }
+.schedule h2 { margin-top: 0; text-align: center; }
+.schedule-table {
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid rgba(90, 210, 255, 0.16);
+  border-radius: 16px;
+  overflow: hidden;
+}
+.schedule-table th,
+.schedule-table td {
+  width: 50%;
+  padding: 0.85rem 1.25rem;
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+.schedule-table th + th,
+.schedule-table td + td { border-left: 1px solid var(--border); }
+.schedule-table thead th {
+  background: rgba(90, 210, 255, 0.1);
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.schedule-table tbody tr { transition: background-color 180ms ease; }
+.schedule-table tbody tr:nth-child(even) { background: rgba(255, 255, 255, 0.03); }
+.schedule-table tbody tr:hover { background: rgba(90, 210, 255, 0.08); }
+.schedule-table tbody tr:last-child td { border-bottom: 0; }
+.schedule-table td:first-child {
+  color: var(--accent);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
 .speaker-card, .organizer-card, .sponsor-card { padding: 1rem; }
 .organizer-grid {
   display: grid;
@@ -381,7 +414,9 @@ footer {
   main { padding-inline: 0.75rem; }
   .hero { padding: 2rem 1rem 1.4rem; border-radius: 20px; }
   .hero h1, .page-title { font-size: clamp(1.7rem, 9vw, 2.25rem); }
-  .panel, .card, .hero-card { padding: 1rem; border-radius: 18px; }
+  .panel, .card, .hero-card, .table-card { padding: 1rem; border-radius: 18px; }
+  .schedule-table { font-size: 0.95rem; }
+  .schedule-table th, .schedule-table td { padding: 0.7rem 0.6rem; }
   .contact-emails { align-items: flex-start; }
   .contact-emails__links { flex-direction: column; }
   .section-copy, .list { overflow-wrap: anywhere; }

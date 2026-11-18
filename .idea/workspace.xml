@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Updated accepted paper information, invited speaker page, and the new workshop schedule.">
+    <list default="true" id="bc637431-e516-4874-aad4-1fdba64e399a" name="Changes" comment="Added a space after Dr.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.html" beforeDir="false" afterPath="$PROJECT_DIR$/program.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="27" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -42,23 +44,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0001908770824146" />
-      <entry key="MS500" value="1.3102392129104599" />
-      <entry key="S2" value="3.3788807142256654" />
-      <entry key="S5" value="6.630722293668431" />
-      <entry key="S10" value="11.60364000415806" />
-      <entry key="S30" value="40.2051864337646" />
-      <entry key="S60" value="91.3466145047168" />
-      <entry key="M2" value="162.02986195664204" />
-      <entry key="M5" value="299.41151506531946" />
-      <entry key="M10" value="450.97104903446535" />
-      <entry key="M15" value="572.6911351537098" />
-      <entry key="M30" value="912.6304785711627" />
-      <entry key="H1" value="1548.2199192023363" />
-      <entry key="H2" value="2679.136180599828" />
-      <entry key="H4" value="4204.223439885118" />
-      <entry key="D1" value="7052.7613946229885" />
-      <entry key="W1" value="7823.141728035861" />
+      <entry key="MS100" value="1.000000316783384" />
+      <entry key="MS500" value="1.0501363233678824" />
+      <entry key="S2" value="1.4802474252286681" />
+      <entry key="S5" value="1.9480570772739385" />
+      <entry key="S10" value="2.5028431479804496" />
+      <entry key="S30" value="3.5311493548145743" />
+      <entry key="S60" value="8.737669301807536" />
+      <entry key="M2" value="38.170275658584124" />
+      <entry key="M5" value="155.11368629030343" />
+      <entry key="M10" value="321.0674108625407" />
+      <entry key="M15" value="468.80928112427256" />
+      <entry key="M30" value="862.012954040652" />
+      <entry key="H1" value="1549.9226474941024" />
+      <entry key="H2" value="2735.221740245448" />
+      <entry key="H4" value="4350.550298572973" />
+      <entry key="D1" value="7453.571434467971" />
+      <entry key="W1" value="8309.050807914908" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -66,37 +68,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="8.717038032371818E-260" />
-      <entry key="S60" value="2.952463045047689E-130" />
-      <entry key="M2" value="1.7182732742631864E-65" />
-      <entry key="M5" value="1.241757792623936E-26" />
-      <entry key="M10" value="1.1143418652389232E-13" />
-      <entry key="M15" value="2.3156822390905894E-9" />
-      <entry key="M30" value="4.81215361256363E-5" />
-      <entry key="H1" value="0.006936968799528587" />
-      <entry key="H2" value="0.0832884673861175" />
-      <entry key="H4" value="0.28859741403223677" />
-      <entry key="D1" value="0.8129217421559022" />
-      <entry key="W1" value="0.9708448247750847" />
+      <entry key="S30" value="2.0867854563642867E-277" />
+      <entry key="S60" value="4.56813469193324E-139" />
+      <entry key="M2" value="6.758797742152357E-70" />
+      <entry key="M5" value="2.147572233024458E-28" />
+      <entry key="M10" value="1.465459734358085E-14" />
+      <entry key="M15" value="5.988470668297991E-10" />
+      <entry key="M30" value="2.4471351961628245E-5" />
+      <entry key="H1" value="0.004946852732963297" />
+      <entry key="H2" value="0.07033386618808285" />
+      <entry key="H4" value="0.26520532835533595" />
+      <entry key="D1" value="0.8015495492677657" />
+      <entry key="W1" value="0.9688928873266642" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9661193879562211" />
-      <entry key="MS500" value="1.2972304263147376" />
-      <entry key="S2" value="3.3560536171309994" />
-      <entry key="S5" value="6.580465397306288" />
-      <entry key="S10" value="11.540678017106433" />
-      <entry key="S30" value="40.15937278305072" />
-      <entry key="S60" value="91.31506850609726" />
-      <entry key="M2" value="162.0097828183386" />
-      <entry key="M5" value="299.40008997758866" />
-      <entry key="M10" value="450.96238694645115" />
-      <entry key="M15" value="572.6828456884216" />
-      <entry key="M30" value="912.621781952342" />
-      <entry key="H1" value="1548.2187683662764" />
-      <entry key="H2" value="2679.2131521208125" />
-      <entry key="H4" value="4204.507670534574" />
-      <entry key="D1" value="7053.573254469477" />
-      <entry key="W1" value="7824.112408780122" />
+      <entry key="MS100" value="5.843793676199741E-5" />
+      <entry key="MS500" value="0.19157823565998935" />
+      <entry key="S2" value="1.0914337898666158" />
+      <entry key="S5" value="1.7576539444676837" />
+      <entry key="S10" value="2.391025041622243" />
+      <entry key="S30" value="3.4861291309809608" />
+      <entry key="S60" value="8.712950913395934" />
+      <entry key="M2" value="38.15544280996772" />
+      <entry key="M5" value="155.1045285078318" />
+      <entry key="M10" value="321.06025835580823" />
+      <entry key="M15" value="468.8025533613525" />
+      <entry key="M30" value="862.0058385239706" />
+      <entry key="H1" value="1549.9203484904695" />
+      <entry key="H2" value="2735.2859622962874" />
+      <entry key="H4" value="4350.811092053118" />
+      <entry key="D1" value="7454.371868966102" />
+      <entry key="W1" value="8310.019527297953" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -193,7 +195,8 @@
       <workItem from="1792430921589" duration="4000" />
       <workItem from="1792691494805" duration="25000" />
       <workItem from="1794854690319" duration="2622000" />
-      <workItem from="1794858782819" duration="16000" />
+      <workItem from="1794858782819" duration="89000" />
+      <workItem from="1794998840540" duration="1881000" />
     </task>
     <task id="LOCAL-00001" summary="Updated website for BMVC 2026-BEST workshop">
       <option name="closed" value="true" />
@@ -299,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794858651862</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added a space after Dr.">
+      <option name="closed" value="true" />
+      <created>1794858863891</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1794858863891</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +353,7 @@
     <MESSAGE value="Updated organizers list." />
     <MESSAGE value="Updated timeline dates, program details, and venue information." />
     <MESSAGE value="Updated accepted paper information, invited speaker page, and the new workshop schedule." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated accepted paper information, invited speaker page, and the new workshop schedule." />
+    <MESSAGE value="Added a space after Dr." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a space after Dr." />
   </component>
 </project>
